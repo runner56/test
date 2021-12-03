@@ -1,2 +1,2 @@
-print("Hello Git!")
-print("Hello PyCharm!")
+print("hello Git!")  # lowercase
+print("hello PyCharm!")  # lowercase
